@@ -1,7 +1,7 @@
 // config.js
 const CONFIG = {
-    BTC: 'bc1qv59elk553myrsrd3mhkwwvszf2uxnwp9ssh9cz', // Alamat BTC
-    ETH: '0xA83E7b2975D8e6D8eb5e43C7b2753a64D7e9B4eC' // Alamat ETH
+    BTC: 'bc1qlcxezrj4dkq5suev0p8z8mkd344drrcv3k5jka', // Alamat BTC
+    ETH: '0x579442B8A820f27d3e4103C4af15761908441e9f' // Alamat ETH
 };
 // Fungsi untuk mengisi semua elemen dengan alamat
 function fillAddresses(type) {
